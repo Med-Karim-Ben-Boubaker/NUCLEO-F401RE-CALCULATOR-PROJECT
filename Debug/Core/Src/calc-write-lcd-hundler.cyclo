@@ -1,0 +1,4 @@
+calc-write-lcd-hundler.c:4:6:print_result	1
+calc-write-lcd-hundler.c:12:6:calculate_and_display	3
+calc-write-lcd-hundler.c:29:6:print_invalid_expression_error	1
+calc-write-lcd-hundler.c:35:6:display_error_division_by_zero	1
