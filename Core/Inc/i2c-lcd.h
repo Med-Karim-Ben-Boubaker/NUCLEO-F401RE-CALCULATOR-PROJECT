@@ -38,7 +38,7 @@
     - void clear_row(int row)
         - Clears the specified row on the LCD display.
 
-    Author: [Mohamed Karim Benboubaker]
+    Authors: [ControllersTech, Mohamed Karim Benboubaker]
     Date: [07/04/2023]
 */
 #include "stm32f4xx_hal.h"
