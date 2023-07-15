@@ -13,7 +13,7 @@
  *
  * Note: This code assumes a 2-line LCD display with a 16x2 character format.
  *
- * @author [MOHAMED KARIM BENBOUBAKER]
+ * @authors [ControllersTech, MOHAMED KARIM BENBOUBAKER]
  */
 
 #include "i2c-lcd.h"
