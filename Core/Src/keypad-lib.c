@@ -1,6 +1,5 @@
 #include "keypad-lib.h"
 
-
 // Function to read the pressed key from the keypad
 char keypad_read() {
     // Iterate through each row

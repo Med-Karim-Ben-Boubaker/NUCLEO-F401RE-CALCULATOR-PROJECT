@@ -25,7 +25,6 @@
 #include <stdio.h>
 #include "calc-write-lcd-hundler.h"
 #include "alarm-sound.h"
-
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -142,7 +141,6 @@ int main(void)
 	  }
 	  ch_printed = ch;
 	  HAL_Delay(200);
-
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
@@ -286,7 +284,7 @@ static void MX_GPIO_Init(void)
   /*Configure GPIO pin : B1_Pin */
   GPIO_InitStruct.Pin = B1_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_IT_FALLING;
-  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  GPIO_InitStruct.Pull = GPIO_PULLDOWN;
   HAL_GPIO_Init(B1_GPIO_Port, &GPIO_InitStruct);
 
   /*Configure GPIO pins : PC0 PC1 PC2 PC3 */

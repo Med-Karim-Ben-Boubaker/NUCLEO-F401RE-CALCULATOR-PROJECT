@@ -1,5 +1,5 @@
 ../Core/Src/arithmetic_calculator.c:3:5:precedence	16	static
-../Core/Src/arithmetic_calculator.c:12:5:applyOperator	24	static
-../Core/Src/arithmetic_calculator.c:27:6:isOperator	16	static
-../Core/Src/arithmetic_calculator.c:32:6:evaluateExpression	576	static
-../Core/Src/arithmetic_calculator.c:98:6:checkValidExpression	24	static
+../Core/Src/arithmetic_calculator.c:13:5:applyOperator	24	static
+../Core/Src/arithmetic_calculator.c:28:6:isOperator	16	static
+../Core/Src/arithmetic_calculator.c:33:6:evaluateExpression	576	static
+../Core/Src/arithmetic_calculator.c:116:6:checkValidExpression	24	static

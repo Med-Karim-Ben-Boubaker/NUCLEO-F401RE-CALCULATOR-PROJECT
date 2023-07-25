@@ -1,5 +1,5 @@
 arithmetic_calculator.c:3:5:precedence	5
-arithmetic_calculator.c:12:5:applyOperator	5
-arithmetic_calculator.c:27:6:isOperator	5
-arithmetic_calculator.c:32:6:evaluateExpression	23
-arithmetic_calculator.c:98:6:checkValidExpression	6
+arithmetic_calculator.c:13:5:applyOperator	5
+arithmetic_calculator.c:28:6:isOperator	5
+arithmetic_calculator.c:33:6:evaluateExpression	23
+arithmetic_calculator.c:116:6:checkValidExpression	6

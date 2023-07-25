@@ -35,7 +35,7 @@ void print_invalid_expression_error(){
 void display_error_division_by_zero(){
 	clear_row(1);
 	lcd_put_cur(1, 0);
-	lcd_send_string(ERROR_MESSAGE_DIVISON_ZERO);
+	lcd_send_string(ERROR_MESSAGE_DIVISION_ZERO);
 }
 
 
